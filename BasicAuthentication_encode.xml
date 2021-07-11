@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="1" name="BasicAuthentication_encode">
+    <Basepaths>/basicauthentication_encode</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1625892049482</CreatedAt>
+    <CreatedBy>venkat.narayana1153r@gmail.com</CreatedBy>
+    <Description></Description>
+    <DisplayName>BasicAuthentication_encode</DisplayName>
+    <LastModifiedAt>1625892185464</LastModifiedAt>
+    <LastModifiedBy>venkat.narayana1153r@gmail.com</LastModifiedBy>
+    <ManifestVersion>SHA-512:d8b252d95f716fb9aee7ca6743513f23e397e361c9ac33ad265694b39ce762189f619177b69adc620beb91bfe44ae55577d2c2201ed800880fdcbb373b6b6b9d:ap-northeast-1</ManifestVersion>
+    <Policies>
+        <Policy>Basic-Authentication-Encode</Policy>
+    </Policies>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>
